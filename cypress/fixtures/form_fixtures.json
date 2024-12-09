@@ -1,0 +1,24 @@
+
+{   
+    "locators": {
+        "name":".question_107 input",
+        "email": ".question_108 input",
+        "phone_number":".question_109 input",
+        "appeal_purpose_locator": "[id='downshift-0-toggle-button'] input",
+        "comment":".multiline___cc6bb61529c652f37050",
+        "button": ".navigation.nav___c56175a660815eb8db2d"
+    },
+
+    
+
+    "input_types": {
+        "name": "Анастасия",
+        "email": "hello@cypress.io",
+        "phone_number":"89999999999",
+        "appeal_purpose_locator": "[id='popper'] .content > :nth-child(6)",
+        "comment":"that's my message"
+    },
+    
+    "success_form_sending_message": "Благодарим за обращение"
+}
+
